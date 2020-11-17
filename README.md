@@ -1,5 +1,5 @@
 # human-pose-recognition
-This is my CNN project.
+This is my CNN project. Start main_window.py to see demonstration of working CNN.
 Dataset link - http://human-pose.mpi-inf.mpg.de/
 The directory includes:
 - notebooks with experiments, proprocessing and learning NN (.ipnb files)
@@ -10,4 +10,3 @@ The directory includes:
 - CNN class (convnet.py)
 - labeled learning data (filitzin.csv)
 - trained model (model.pth)
-Start main_window.py to see demonstration of working CNN.
